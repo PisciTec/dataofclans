@@ -13,7 +13,7 @@ import {
 export class AppComponent implements OnInit {
   data: any =null;
   constructor(private _http:HttpClient) {}
-  title = 'angular-clash';
+  title = 'Data of Clans';
  ngOnInit(){ return this._http
     .get('http://api.clashofclans.com/v1/clans?locationId=aaaa')
     .subscribe(data => {

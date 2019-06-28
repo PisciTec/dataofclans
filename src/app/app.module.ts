@@ -9,10 +9,13 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { ReactiveFormsModule } from '@angular/forms';
 import { HttpClient, HttpClientModule} from '@angular/common/http'
 import { Interceptor } from './auth/interceptor.module';
+import { SearchComponent } from './search/search.component';
+
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SearchComponent,
   ],
   imports: [
     BrowserModule,
