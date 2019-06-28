@@ -15,7 +15,7 @@ export class AppComponent implements OnInit {
   constructor(private _http:HttpClient) {}
   title = 'Data of Clans';
  ngOnInit(){ return this._http
-    .get('http://api.clashofclans.com/v1/clans?locationId=aaaa')
+    .get('https://api.clashofclans.com/v1/clans?name=ola')
     .subscribe(data => {
       this.data = data;
       console.log(data);
