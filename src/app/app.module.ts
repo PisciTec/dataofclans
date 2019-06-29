@@ -10,12 +10,14 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { HttpClient, HttpClientModule} from '@angular/common/http'
 import { Interceptor } from './auth/interceptor.module';
 import { SearchComponent } from './search/search.component';
+import { ListdetailsComponent } from './listdetails/listdetails.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     SearchComponent,
+    ListdetailsComponent,
   ],
   imports: [
     BrowserModule,
