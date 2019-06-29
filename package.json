@@ -7,12 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-<<<<<<< HEAD
-    "e2e": "ng e2e",
-    "postinstall": "ng build --aot --prod"
-=======
     "e2e": "ng e2e"
->>>>>>> parent of 5e69fdf... Changes to be a webserver
   },
   "private": true,
   "dependencies": {
