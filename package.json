@@ -8,7 +8,11 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
+<<<<<<< HEAD
     "postinstall": "ng build --aot --prod"
+=======
+    "postinstall": "ng build --prod"
+>>>>>>> parent of 02e0bc1... New test
   },
   "private": true,
   "dependencies": {
