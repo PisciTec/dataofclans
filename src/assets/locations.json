@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "id": 32000000,
+      "name": "Europe",
+      "isCountry": false
+    },
+    {
+      "id": 32000001,
+      "name": "North America",
+      "isCountry": false
+    },
+    {
+      "id": 32000002,
+      "name": "South America",
+      "isCountry": false
+    },
+    {
+      "id": 32000003,
+      "name": "Asia",
+      "isCountry": false
+    },
+    {
+      "id": 32000004,
+      "name": "Australia",
+      "isCountry": false
+    },
+    {
+      "id": 32000005,
+      "name": "Africa",
+      "isCountry": false
+    },
+    {
+      "id": 32000006,
+      "name": "International",
+      "isCountry": false
+    },
+    {
+      "id": 32000007,
+      "name": "Afghanistan",
+      "isCountry": true,
+      "countryCode": "AF"
+    },
+    {
+      "id": 32000008,
+      "name": "Åland Islands",
+      "isCountry": true,
+      "countryCode": "AX"
+    },
+    {
+      "id": 32000009,
+      "name": "Albania",
+      "isCountry": true,
+      "countryCode": "AL"
+    },
+    {
+      "id": 32000010,
+      "name": "Algeria",
+      "isCountry": true,
+      "countryCode": "DZ"
+    },
+    {
+      "id": 32000011,
+      "name": "American Samoa",
+      "isCountry": true,
+      "countryCode": "AS"
+    },
+    {
+      "id": 32000012,
+      "name": "Andorra",
+      "isCountry": true,
+      "countryCode": "AD"
+    },
+    {
+      "id": 32000013,
+      "name": "Angola",
+      "isCountry": true,
+      "countryCode": "AO"
+    },
+    {
+      "id": 32000014,
+      "name": "Anguilla",
+      "isCountry": true,
+      "countryCode": "AI"
+    },
+    {
+      "id": 32000015,
+      "name": "Antarctica",
+      "isCountry": true,
+      "countryCode": "AQ"
+    },
+    {
+      "id": 32000016,
+      "name": "Antigua and Barbuda",
+      "isCountry": true,
+      "countryCode": "AG"
+    },
+    {
+      "id": 32000017,
+      "name": "Argentina",
+      "isCountry": true,
+      "countryCode": "AR"
+    },
+    {
+      "id": 32000018,
+      "name": "Armenia",
+      "isCountry": true,
+      "countryCode": "AM"
+    },
+    {
+      "id": 32000019,
+      "name": "Aruba",
+      "isCountry": true,
+      "countryCode": "AW"
+    }
+  ]
+}

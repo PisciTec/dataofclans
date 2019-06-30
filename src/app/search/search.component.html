@@ -1,8 +1,8 @@
 <section class= "col-md-6 offset-md-3" id ="search">
-    <label for="teste1"> Descubra o seu inimigo:</label>
-    <input class="form-control form-control-lg" type="text" placeholder="Preencher com {Clans Or Player Or League} Escolhida">
-    <button class="btn-primary btn-lg">Search</button>
+    <label for="teste1"> Descubra o seu {{reception}}:</label>
+    <input class="form-control form-control-lg" type="text" placeholder='AAAA'>
+    <button class="btn-primary btn-lg" (click)="get_infos()" >Search</button>
 </section>
-<div>
-    <router-outlet></router-outlet> 
-</div>
+<section class ="list">
+    <router-outlet (messageEvent)= "recieveMessage($event)"></router-outlet>
+</section> 

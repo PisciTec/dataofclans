@@ -5,6 +5,8 @@ import {
  HttpClient,
  HTTP_INTERCEPTORS,
 } from '@angular/common/http';
+import { Router } from '@angular/router'
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -12,14 +14,12 @@ import {
 })
 export class AppComponent implements OnInit {
   data: any =null;
-  constructor(private _http:HttpClient) {}
+  
+  constructor(private router: Router) {}
   title = 'Data of Clans';
- ngOnInit(){ return this._http
-    .get('https://api.clashofclans.com/v1/clans?name=ola')
-    .subscribe(data => {
-      this.data = data;
-      console.log(data);
-    });
+  
+ ngOnInit(){ 
   }
+  route = this.router.url;
 }
 

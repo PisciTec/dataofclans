@@ -8,10 +8,9 @@ import { AppComponent } from './app.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { ReactiveFormsModule } from '@angular/forms';
 import { HttpClient, HttpClientModule} from '@angular/common/http'
-import { Interceptor } from './auth/interceptor.module';
+//import { Interceptor } from './auth/interceptor.module';
 import { SearchComponent } from './search/search.component';
 import { ListdetailsComponent } from './listdetails/listdetails.component';
-
 
 @NgModule({
   declarations: [
@@ -24,7 +23,7 @@ import { ListdetailsComponent } from './listdetails/listdetails.component';
     AppRoutingModule,
     NgbModule,
     ReactiveFormsModule,
-    Interceptor,
+    //Interceptor
     HttpClientModule
   ],
   providers: [],

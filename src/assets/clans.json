@@ -1,0 +1,1604 @@
+{
+  "items": [
+    {
+      "tag": "#298GRJU92",
+      "name": "UNCLE PEDRO",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000047,
+        "name": "Canada",
+        "isCountry": true,
+        "countryCode": "CA"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+      },
+      "clanLevel": 3,
+      "clanPoints": 11098,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 10,
+      "warTies": 1,
+      "warLosses": 7,
+      "isWarLogPublic": true,
+      "members": 27
+    },
+    {
+      "tag": "#28RJQCJPG",
+      "name": "pedro wew",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000246,
+        "name": "Ukraine",
+        "isCountry": true,
+        "countryCode": "UA"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9sT0pMWkOKR3Kx0DXuEz1QvYDbUAHsW7sgRY6-9qAhM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9sT0pMWkOKR3Kx0DXuEz1QvYDbUAHsW7sgRY6-9qAhM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9sT0pMWkOKR3Kx0DXuEz1QvYDbUAHsW7sgRY6-9qAhM.png"
+      },
+      "clanLevel": 3,
+      "clanPoints": 8832,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 600,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 13,
+      "isWarLogPublic": false,
+      "members": 17
+    },
+    {
+      "tag": "#R8JJLRGV",
+      "name": "Pedro Penduko",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000185,
+        "name": "Philippines",
+        "isCountry": true,
+        "countryCode": "PH"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png"
+      },
+      "clanLevel": 12,
+      "clanPoints": 19103,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4200,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 298,
+      "isWarLogPublic": false,
+      "members": 23
+    },
+    {
+      "tag": "#29PL92RJP",
+      "name": "House San Pedro",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000185,
+        "name": "Philippines",
+        "isCountry": true,
+        "countryCode": "PH"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/tY6yhdA6uIhSlFy5-1VSwfOMfPMfBVPpAJ1tJrvCihs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/tY6yhdA6uIhSlFy5-1VSwfOMfPMfBVPpAJ1tJrvCihs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/tY6yhdA6uIhSlFy5-1VSwfOMfPMfBVPpAJ1tJrvCihs.png"
+      },
+      "clanLevel": 2,
+      "clanPoints": 8656,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 7,
+      "warTies": 0,
+      "warLosses": 2,
+      "isWarLogPublic": true,
+      "members": 10
+    },
+    {
+      "tag": "#9JR29Y2G",
+      "name": "SAN PEDRO SULA",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000109,
+        "name": "Honduras",
+        "isCountry": true,
+        "countryCode": "HN"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4_rtwbzIqzMbRmu0V2L-VPErJFvaMXtPn9W6wTtz8yA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4_rtwbzIqzMbRmu0V2L-VPErJFvaMXtPn9W6wTtz8yA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4_rtwbzIqzMbRmu0V2L-VPErJFvaMXtPn9W6wTtz8yA.png"
+      },
+      "clanLevel": 17,
+      "clanPoints": 34198,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 2000,
+      "warFrequency": "always",
+      "warWinStreak": 1,
+      "warWins": 342,
+      "isWarLogPublic": false,
+      "members": 50
+    },
+    {
+      "tag": "#ULJ88G88",
+      "name": "sao pedro 3",
+      "type": "open",
+      "location": {
+        "id": 32000038,
+        "name": "Brazil",
+        "isCountry": true,
+        "countryCode": "BR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/gNGgf_sof6xv4P4c_vbnoj1l5XUFD5_xjpbSv6jip5A.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gNGgf_sof6xv4P4c_vbnoj1l5XUFD5_xjpbSv6jip5A.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gNGgf_sof6xv4P4c_vbnoj1l5XUFD5_xjpbSv6jip5A.png"
+      },
+      "clanLevel": 8,
+      "clanPoints": 22304,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 1500,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 69,
+      "warTies": 0,
+      "warLosses": 76,
+      "isWarLogPublic": true,
+      "members": 48
+    },
+    {
+      "tag": "#PC88Q2CV",
+      "name": "alagad ni pedro",
+      "type": "closed",
+      "location": {
+        "id": 32000006,
+        "name": "International",
+        "isCountry": false
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/lh5138F8tqr755o4PEhvhwnDuJTw4x_eEYCbV9ZU56E.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/lh5138F8tqr755o4PEhvhwnDuJTw4x_eEYCbV9ZU56E.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/lh5138F8tqr755o4PEhvhwnDuJTw4x_eEYCbV9ZU56E.png"
+      },
+      "clanLevel": 14,
+      "clanPoints": 24722,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4200,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 224,
+      "isWarLogPublic": false,
+      "members": 32
+    },
+    {
+      "tag": "#9LVYJYR8",
+      "name": "pedro & chrysto",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000094,
+        "name": "Germany",
+        "isCountry": true,
+        "countryCode": "DE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/-_JSuDcthLfsUeBRFV9fbPIIAqY6pGSci2Rk4I2l3dw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/-_JSuDcthLfsUeBRFV9fbPIIAqY6pGSci2Rk4I2l3dw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/-_JSuDcthLfsUeBRFV9fbPIIAqY6pGSci2Rk4I2l3dw.png"
+      },
+      "clanLevel": 8,
+      "clanPoints": 18528,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "moreThanOncePerWeek",
+      "warWinStreak": 0,
+      "warWins": 43,
+      "isWarLogPublic": false,
+      "members": 23
+    },
+    {
+      "tag": "#9GRPCYVJ",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 5235,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 35
+    },
+    {
+      "tag": "#RQV88LY2",
+      "name": "pedro",
+      "type": "open",
+      "location": {
+        "id": 32000042,
+        "name": "Bulgaria",
+        "isCountry": true,
+        "countryCode": "BG"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+      },
+      "clanLevel": 3,
+      "clanPoints": 4185,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 200,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 15,
+      "warTies": 0,
+      "warLosses": 21,
+      "isWarLogPublic": true,
+      "members": 8
+    },
+    {
+      "tag": "#9QVV0QRL",
+      "name": "Pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 4051,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 2,
+      "isWarLogPublic": true,
+      "members": 40
+    },
+    {
+      "tag": "#JJ2GY88",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/x8wPEgQ5IqlE8tg_B7bjLNQV-9q8LaWRmhKEDfl4I70.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/x8wPEgQ5IqlE8tg_B7bjLNQV-9q8LaWRmhKEDfl4I70.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/x8wPEgQ5IqlE8tg_B7bjLNQV-9q8LaWRmhKEDfl4I70.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 3877,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 35
+    },
+    {
+      "tag": "#9C28G080",
+      "name": "Pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/vyZsIZFAba2AU87oRvEIwdP-9iKtYO3RLh35uPcJaLs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/vyZsIZFAba2AU87oRvEIwdP-9iKtYO3RLh35uPcJaLs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/vyZsIZFAba2AU87oRvEIwdP-9iKtYO3RLh35uPcJaLs.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 3699,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 23
+    },
+    {
+      "tag": "#989ULU9Y",
+      "name": "Pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 2291,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 11
+    },
+    {
+      "tag": "#8RPY08GQ",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 2056,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 200,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 7
+    },
+    {
+      "tag": "#9Y2292R8",
+      "name": "Pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1767,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 11
+    },
+    {
+      "tag": "#J9R820CJ",
+      "name": "pedro",
+      "type": "open",
+      "location": {
+        "id": 32000006,
+        "name": "International",
+        "isCountry": false
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/I2tBGtg4oV5WUcnZU1CD2S3q8uJ4jRvrDYsxKM9e2Pc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/I2tBGtg4oV5WUcnZU1CD2S3q8uJ4jRvrDYsxKM9e2Pc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/I2tBGtg4oV5WUcnZU1CD2S3q8uJ4jRvrDYsxKM9e2Pc.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1634,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 7
+    },
+    {
+      "tag": "#8RUG9L9U",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/_T6QWksTBAykKIIfJY0XU65mKIZRFCt39vestY-NQu0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/_T6QWksTBAykKIIfJY0XU65mKIZRFCt39vestY-NQu0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/_T6QWksTBAykKIIfJY0XU65mKIZRFCt39vestY-NQu0.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1596,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 8
+    },
+    {
+      "tag": "#2YP9VPGG",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6uzLB9mhWgZJmLE4zwKg_9igVFZ-q5OHAiAX5cQRRIQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1486,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 10
+    },
+    {
+      "tag": "#Q222GLP9",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1418,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 200,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 5
+    },
+    {
+      "tag": "#RYLQJYU",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mi9PGZCQ4_mCvv2cfIJqyu_AlQ78QQx51EaU-j_89tg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mi9PGZCQ4_mCvv2cfIJqyu_AlQ78QQx51EaU-j_89tg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mi9PGZCQ4_mCvv2cfIJqyu_AlQ78QQx51EaU-j_89tg.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1313,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 9
+    },
+    {
+      "tag": "#RYGR9880",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/tcJAnkf5vbdF51I_8MyHsHI1kTGnc8hDguyoMIZ1ll0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/tcJAnkf5vbdF51I_8MyHsHI1kTGnc8hDguyoMIZ1ll0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/tcJAnkf5vbdF51I_8MyHsHI1kTGnc8hDguyoMIZ1ll0.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1067,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "lessThanOncePerWeek",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 7
+    },
+    {
+      "tag": "#208RQ0VPL",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 966,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 1000,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 5,
+      "warTies": 0,
+      "warLosses": 3,
+      "isWarLogPublic": true,
+      "members": 2
+    },
+    {
+      "tag": "#V0UQP9UU",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 894,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 3
+    },
+    {
+      "tag": "#8PV9UR2Q",
+      "name": "pedro",
+      "type": "open",
+      "location": {
+        "id": 32000036,
+        "name": "Botswana",
+        "isCountry": true,
+        "countryCode": "BW"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 857,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 5
+    },
+    {
+      "tag": "#PQVQRRL9",
+      "name": "pedro",
+      "type": "open",
+      "location": {
+        "id": 32000038,
+        "name": "Brazil",
+        "isCountry": true,
+        "countryCode": "BR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 794,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 5
+    },
+    {
+      "tag": "#J22CCU8C",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/3GN7-c_bCpOt8vmTJHfvroH6VkK96qu_JzG6DQYyr40.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/3GN7-c_bCpOt8vmTJHfvroH6VkK96qu_JzG6DQYyr40.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/3GN7-c_bCpOt8vmTJHfvroH6VkK96qu_JzG6DQYyr40.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 781,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 5
+    },
+    {
+      "tag": "#JCV99R02",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 766,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 5
+    },
+    {
+      "tag": "#RRRJ9UCP",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/AEaHm0FmstsRRGTqajAhcz1Mi7ceR2ys7g5PL7p2mvk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AEaHm0FmstsRRGTqajAhcz1Mi7ceR2ys7g5PL7p2mvk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AEaHm0FmstsRRGTqajAhcz1Mi7ceR2ys7g5PL7p2mvk.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 735,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 6
+    },
+    {
+      "tag": "#GLYQ9VJJ",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ys_722Gtrt7ORp80Ys-xbzBE6p_UPX98ayBNEMSeaZQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ys_722Gtrt7ORp80Ys-xbzBE6p_UPX98ayBNEMSeaZQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ys_722Gtrt7ORp80Ys-xbzBE6p_UPX98ayBNEMSeaZQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 676,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 2
+    },
+    {
+      "tag": "#LL2J2RG9",
+      "name": "pedro",
+      "type": "open",
+      "location": {
+        "id": 32000038,
+        "name": "Brazil",
+        "isCountry": true,
+        "countryCode": "BR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/pGgR368u5AUSSHwwT4pj3-YKB7jbdGc62nDphU6bn3A.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/pGgR368u5AUSSHwwT4pj3-YKB7jbdGc62nDphU6bn3A.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/pGgR368u5AUSSHwwT4pj3-YKB7jbdGc62nDphU6bn3A.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 676,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 5
+    },
+    {
+      "tag": "#UPCULYR0",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/nLTnLYAO5t-TCyd71AlvQG8C7PG_zzwX8pEC9--p11w.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/nLTnLYAO5t-TCyd71AlvQG8C7PG_zzwX8pEC9--p11w.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/nLTnLYAO5t-TCyd71AlvQG8C7PG_zzwX8pEC9--p11w.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 664,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 3
+    },
+    {
+      "tag": "#QVY0L8Y",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ptl06rgEmq2Vti279PzRMMp5isnvpSPo43I8ScdQ2bE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ptl06rgEmq2Vti279PzRMMp5isnvpSPo43I8ScdQ2bE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ptl06rgEmq2Vti279PzRMMp5isnvpSPo43I8ScdQ2bE.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 654,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 200,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 4
+    },
+    {
+      "tag": "#RPYRU0YQ",
+      "name": "Pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9Ltd9CaSvpYc55jyj1sa2cobnnYbe4f6V_oZdlD04oU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9Ltd9CaSvpYc55jyj1sa2cobnnYbe4f6V_oZdlD04oU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9Ltd9CaSvpYc55jyj1sa2cobnnYbe4f6V_oZdlD04oU.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 621,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 2
+    },
+    {
+      "tag": "#R9LRQP8U",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ucuFNJomQldQpmPgDRmciS7nOixCMiJxmtJUQno09ms.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ucuFNJomQldQpmPgDRmciS7nOixCMiJxmtJUQno09ms.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ucuFNJomQldQpmPgDRmciS7nOixCMiJxmtJUQno09ms.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 550,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 400,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#2CQVUG2P",
+      "name": "pedro",
+      "type": "closed",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 515,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 3000,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#29Q9LYLV9",
+      "name": "pedro",
+      "type": "closed",
+      "location": {
+        "id": 32000188,
+        "name": "Portugal",
+        "isCountry": true,
+        "countryCode": "PT"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/n3zovo_XLuXEcyHxkajYDfQ1vJskK3GhF7VKewVeNgc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/n3zovo_XLuXEcyHxkajYDfQ1vJskK3GhF7VKewVeNgc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/n3zovo_XLuXEcyHxkajYDfQ1vJskK3GhF7VKewVeNgc.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 488,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 2
+    },
+    {
+      "tag": "#CV208G8P",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mgBRqYmdhUXEJ7sU7Nad6pv2lFh3FZ6Kfuqf9hm6BNw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mgBRqYmdhUXEJ7sU7Nad6pv2lFh3FZ6Kfuqf9hm6BNw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mgBRqYmdhUXEJ7sU7Nad6pv2lFh3FZ6Kfuqf9hm6BNw.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 455,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 2
+    },
+    {
+      "tag": "#QLQ0YQ2Q",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Jjie3zOT3ClYZ1kESiyyxql0n5tPZoCFmLbUGUxsSaY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Jjie3zOT3ClYZ1kESiyyxql0n5tPZoCFmLbUGUxsSaY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Jjie3zOT3ClYZ1kESiyyxql0n5tPZoCFmLbUGUxsSaY.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 446,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 4
+    },
+    {
+      "tag": "#JYY0GCLR",
+      "name": "pedro",
+      "type": "open",
+      "location": {
+        "id": 32000090,
+        "name": "French Southern Territories",
+        "isCountry": true,
+        "countryCode": "TF"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/BrDcwW9DRiPqMb2-ilaoY7yujrTlI-XRwTVX4YQB3so.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/BrDcwW9DRiPqMb2-ilaoY7yujrTlI-XRwTVX4YQB3so.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/BrDcwW9DRiPqMb2-ilaoY7yujrTlI-XRwTVX4YQB3so.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 443,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4200,
+      "warFrequency": "moreThanOncePerWeek",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#Y8YRV9VL",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/jLftlUW9_JJ2eH8fpR6ebSsRrlN3YmfQEX5zazKNvPw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/jLftlUW9_JJ2eH8fpR6ebSsRrlN3YmfQEX5zazKNvPw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/jLftlUW9_JJ2eH8fpR6ebSsRrlN3YmfQEX5zazKNvPw.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 433,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 2
+    },
+    {
+      "tag": "#J0PVV0C2",
+      "name": "pedro",
+      "type": "closed",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/U6zNnpzuus5Os5rCEMFbvt62wCAr9hdJHm7FSmwWdEo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/U6zNnpzuus5Os5rCEMFbvt62wCAr9hdJHm7FSmwWdEo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/U6zNnpzuus5Os5rCEMFbvt62wCAr9hdJHm7FSmwWdEo.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 420,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 400,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#28QC89GL0",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/oZWIbV1xwTLOAQM63-8CvjFUA-VMabqF1nWfbvSQuBs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/oZWIbV1xwTLOAQM63-8CvjFUA-VMabqF1nWfbvSQuBs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/oZWIbV1xwTLOAQM63-8CvjFUA-VMabqF1nWfbvSQuBs.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 412,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 3
+    },
+    {
+      "tag": "#V9G8RU2",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mxiHwudGFWS046XFUbY_Rs1XQFJw65HMZr6TuS7r9i8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mxiHwudGFWS046XFUbY_Rs1XQFJw65HMZr6TuS7r9i8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mxiHwudGFWS046XFUbY_Rs1XQFJw65HMZr6TuS7r9i8.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 402,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4200,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#QU92QVR",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 401,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4200,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#8U9U92V0",
+      "name": "PEDRO",
+      "type": "closed",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/_T6QWksTBAykKIIfJY0XU65mKIZRFCt39vestY-NQu0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/_T6QWksTBAykKIIfJY0XU65mKIZRFCt39vestY-NQu0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/_T6QWksTBAykKIIfJY0XU65mKIZRFCt39vestY-NQu0.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 381,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 3600,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#JPVUQY8P",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Yx4e6lPM5alzGnQ8RIiPO6DbbRTav-Hc-UtJQZ--uUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Yx4e6lPM5alzGnQ8RIiPO6DbbRTav-Hc-UtJQZ--uUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Yx4e6lPM5alzGnQ8RIiPO6DbbRTav-Hc-UtJQZ--uUA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 369,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4200,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#VQQP88GQ",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 322,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#PVQUR2VJ",
+      "name": "pedro",
+      "type": "inviteOnly",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/i2IV7UXQr7HT9pAfFeuSNsHFivYdXkLNPLC8PKt-msc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/i2IV7UXQr7HT9pAfFeuSNsHFivYdXkLNPLC8PKt-msc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/i2IV7UXQr7HT9pAfFeuSNsHFivYdXkLNPLC8PKt-msc.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 315,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#Q0YCYR09",
+      "name": "Pedro",
+      "type": "open",
+      "location": {
+        "id": 32000188,
+        "name": "Portugal",
+        "isCountry": true,
+        "countryCode": "PT"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 284,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 400,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#RV2Q0YLC",
+      "name": "Pedro",
+      "type": "open",
+      "location": {
+        "id": 32000038,
+        "name": "Brazil",
+        "isCountry": true,
+        "countryCode": "BR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mgBRqYmdhUXEJ7sU7Nad6pv2lFh3FZ6Kfuqf9hm6BNw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mgBRqYmdhUXEJ7sU7Nad6pv2lFh3FZ6Kfuqf9hm6BNw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mgBRqYmdhUXEJ7sU7Nad6pv2lFh3FZ6Kfuqf9hm6BNw.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 270,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4200,
+      "warFrequency": "moreThanOncePerWeek",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#9P8PVC2C",
+      "name": "pedro",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000006,
+        "name": "International",
+        "isCountry": false
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 265,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 1000,
+      "warFrequency": "oncePerWeek",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#22U9CR0VP",
+      "name": "Pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7qmWCDiuf3oURGK7Xf6ErGGYLGRuFjqy7Yb9pG1A5NE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7qmWCDiuf3oURGK7Xf6ErGGYLGRuFjqy7Yb9pG1A5NE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7qmWCDiuf3oURGK7Xf6ErGGYLGRuFjqy7Yb9pG1A5NE.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 231,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 400,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#RP8CGQ90",
+      "name": "PEDRO",
+      "type": "open",
+      "location": {
+        "id": 32000153,
+        "name": "Mexico",
+        "isCountry": true,
+        "countryCode": "MX"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/p2EIPNuZL7XPUmCVi2NXO1HnibL7RRcblpnd29mw4NA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/p2EIPNuZL7XPUmCVi2NXO1HnibL7RRcblpnd29mw4NA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/p2EIPNuZL7XPUmCVi2NXO1HnibL7RRcblpnd29mw4NA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 229,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 3
+    },
+    {
+      "tag": "#YGG2LYGY",
+      "name": "pedro",
+      "type": "open",
+      "location": {
+        "id": 32000093,
+        "name": "Georgia",
+        "isCountry": true,
+        "countryCode": "GE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/g3TaXumWaSS1CMifB-fpK46PDDdGOrLsd5zNgkTEJXI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/g3TaXumWaSS1CMifB-fpK46PDDdGOrLsd5zNgkTEJXI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/g3TaXumWaSS1CMifB-fpK46PDDdGOrLsd5zNgkTEJXI.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 228,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4000,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#JRLJPLU9",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9hb86_0BBBcutHjb97g6mUvw6ZTnR9JixvFArO5Foqc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9hb86_0BBBcutHjb97g6mUvw6ZTnR9JixvFArO5Foqc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9hb86_0BBBcutHjb97g6mUvw6ZTnR9JixvFArO5Foqc.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 228,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 3
+    },
+    {
+      "tag": "#C0YL8PRY",
+      "name": "pedro",
+      "type": "closed",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/yOqsuOuAsymn6zpU6Iq1FLqhITwm76cMWV6mzCxq3J4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/yOqsuOuAsymn6zpU6Iq1FLqhITwm76cMWV6mzCxq3J4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/yOqsuOuAsymn6zpU6Iq1FLqhITwm76cMWV6mzCxq3J4.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 219,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 400,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#8YGQ2Y8Y",
+      "name": "pedro",
+      "type": "open",
+      "location": {
+        "id": 32000038,
+        "name": "Brazil",
+        "isCountry": true,
+        "countryCode": "BR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/BjyaqRXQx-G8jwPixtbXPifXAN33-yvr5a67mgJ9W5I.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/BjyaqRXQx-G8jwPixtbXPifXAN33-yvr5a67mgJ9W5I.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/BjyaqRXQx-G8jwPixtbXPifXAN33-yvr5a67mgJ9W5I.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 206,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 400,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 2
+    },
+    {
+      "tag": "#V2LY28CU",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/WTRJUHvQpO4p5HyK7DHuaAhjl1sdCZwVUAxPrX1drX4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/WTRJUHvQpO4p5HyK7DHuaAhjl1sdCZwVUAxPrX1drX4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/WTRJUHvQpO4p5HyK7DHuaAhjl1sdCZwVUAxPrX1drX4.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 203,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#VUU8U0JP",
+      "name": "PEDRO",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 202,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#8V0JC0QU",
+      "name": "Pedro",
+      "type": "open",
+      "location": {
+        "id": 32000038,
+        "name": "Brazil",
+        "isCountry": true,
+        "countryCode": "BR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/1qSjXLWHHaaqDc4NfzV3YW2cBfAZMZJ1j3Ee0bf1S1A.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/1qSjXLWHHaaqDc4NfzV3YW2cBfAZMZJ1j3Ee0bf1S1A.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/1qSjXLWHHaaqDc4NfzV3YW2cBfAZMZJ1j3Ee0bf1S1A.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 175,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 200,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#G0J88QQ2",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 148,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 4200,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#RU9LLU80",
+      "name": "PEDRO",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000125,
+        "name": "Kazakhstan",
+        "isCountry": true,
+        "countryCode": "KZ"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/aIqH8JUUM0lDBRDcnw0wHe1YqOLvaFWVXPhlo7Q6R_Y.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/aIqH8JUUM0lDBRDcnw0wHe1YqOLvaFWVXPhlo7Q6R_Y.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/aIqH8JUUM0lDBRDcnw0wHe1YqOLvaFWVXPhlo7Q6R_Y.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 68,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 1000,
+      "warFrequency": "always",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 1,
+      "isWarLogPublic": true,
+      "members": 1
+    },
+    {
+      "tag": "#P0YU9LPC",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 5162,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 35
+    },
+    {
+      "tag": "#QGY08QJY",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zMv7UHfx74_S-eAVPmBlKTm1V7B-P_2B-DIAa6YJcAE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zMv7UHfx74_S-eAVPmBlKTm1V7B-P_2B-DIAa6YJcAE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zMv7UHfx74_S-eAVPmBlKTm1V7B-P_2B-DIAa6YJcAE.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 3114,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 14
+    },
+    {
+      "tag": "#2VVGPPGR",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/wNHxjgd-T-jglc1UXoZz7IAcpOY5JsTlMJf9B9Q-2ZE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/wNHxjgd-T-jglc1UXoZz7IAcpOY5JsTlMJf9B9Q-2ZE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/wNHxjgd-T-jglc1UXoZz7IAcpOY5JsTlMJf9B9Q-2ZE.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 2559,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 15
+    },
+    {
+      "tag": "#Q28VVPQR",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 2137,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 12
+    },
+    {
+      "tag": "#YVRVGRJ",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/s0eiy-eMiC617auw46oUsDTnr8qa7KLCw3CJJ2SZNsQ.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1968,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 7
+    },
+    {
+      "tag": "#2QJQRP29",
+      "name": "Pedro",
+      "type": "open",
+      "location": {
+        "id": 32000006,
+        "name": "International",
+        "isCountry": false
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Sj-xRufxYBYkhRO_Rb1pxLxxkdSkoArCOhbAINmMGgg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Sj-xRufxYBYkhRO_Rb1pxLxxkdSkoArCOhbAINmMGgg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Sj-xRufxYBYkhRO_Rb1pxLxxkdSkoArCOhbAINmMGgg.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1850,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 600,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 4,
+      "isWarLogPublic": true,
+      "members": 5
+    },
+    {
+      "tag": "#PLQGQJLU",
+      "name": "pedro",
+      "type": "open",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+      },
+      "clanLevel": 1,
+      "clanPoints": 1733,
+      "clanVersusPoints": 0,
+      "requiredTrophies": 0,
+      "warFrequency": "unknown",
+      "warWinStreak": 0,
+      "warWins": 0,
+      "warTies": 0,
+      "warLosses": 0,
+      "isWarLogPublic": true,
+      "members": 8
+    }
+  ]
+}  
