@@ -1,6 +1,7 @@
 # AngularClash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+You need to download your Angular CLI and your core to version 7, the latest version is 8, to install, you need write 'npm install @angular/cli@7.3.8' and download the node https://nodejs.org/en/ at this link.
 
 ## Development server
 

@@ -1,8 +1,12 @@
 <div class="col-md-8 offset-md-2" id = "list"> 
   <h1>
-    {{actualroute}}
-  </h1>
-  <ul>
     
-  </ul> 
+  </h1>
+  <div class="bg-info">
+    <ul>
+      <li *ngFor="let item of lista_de_pesquisa.items" >
+        -- Name: {{item.name}}
+      </li>
+    </ul> 
+  </div>
 </div> 

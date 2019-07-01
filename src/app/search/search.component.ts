@@ -16,7 +16,7 @@ export type Item = { id : number,
   styleUrls: ['./search.component.scss']
 })
 export class SearchComponent implements OnInit {
-  @Input() message: string;
+  
   
   reception = "teste1";
   public href: string = "";
@@ -30,11 +30,12 @@ export class SearchComponent implements OnInit {
   items: Array<Item>;
   
   ngOnInit() {
-    this.data.currentMessage.subscribe(message => this.reception = message)
+    this.data.currentsource.subscribe(message => this.reception = message)
   }
   get_infos(){
-    this._http.get('http://localhost:4200/assets/clans.json').subscribe(data => {
+    this._http.get('http://localhost:4200/assets'+ this.reception +'.json').subscribe(data => {
       this.dataset = data;
+      this.data.changeData(this.dataset);
       console.log(data);
     });
 }
